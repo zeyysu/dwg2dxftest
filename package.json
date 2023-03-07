@@ -1,0 +1,14 @@
+{
+    "dependencies": {
+      "@filemap/dwg2dxf": "https://github.com/FileMap/dwg2dxf.git#",
+      "@oznakn/dwg2dxf": "https://github.com/oznakn/dwg2dxf.git#"
+    },
+    "scripts": {
+      "start": "node main.js"
+    },
+    "type": "module",
+    "version": "1.0.0",
+    "main": "main.js",
+    "author": "zeyysu",
+    "license": "MIT"
+  }
